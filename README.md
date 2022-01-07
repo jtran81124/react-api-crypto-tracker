@@ -15,8 +15,13 @@ This app helps you check the top 100 coin prices of crypto daily.
 
 `npm install`
 
-**Run Local Web Applciation **
+**Run Local Web Applciation**
 
 `npm start`
 
 
+
+
+**Image Preview**
+
+![preview](images/preview1.png)
