@@ -24,4 +24,4 @@ This app helps you check the top 100 coin prices of crypto daily.
 
 **Image Preview**
 
-![preview](images/preview1.png)
+![preview](images/preview1.PNG)
